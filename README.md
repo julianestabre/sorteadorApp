@@ -4,6 +4,12 @@
 
 ---
 
+## Captura de pantalla
+
+![sorteadorApp](https://github.com/user-attachments/assets/9305b1af-353b-4c33-a186-8d5cb730896e)
+
+---
+
 ## Descripción
 
 Esta aplicación está diseñada para supermercados que realizan sorteos mensuales entre sus clientes. Luego de cada compra, el cliente recibe un número único de 8 dígitos compuesto por:
