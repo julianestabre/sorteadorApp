@@ -6,7 +6,7 @@
 
 ## Captura de pantalla
 
-![sorteadorApp](https://github.com/user-attachments/assets/9305b1af-353b-4c33-a186-8d5cb730896e)
+![sorteadorApp](https://github.com/user-attachments/assets/4fbe6d09-be59-4b78-bebd-55abb37f8ce7)
 
 ---
 
